@@ -1,7 +1,8 @@
-# mejor-calculadora
-Proyecto: “Una mejor calculadora” (versión fácil)💻
+                         Proyecto: “Una mejor calculadora” (versión fácil)💻
 
-Aqui encontrarás una calculadora en Python que funciona desde la consola de Visual Studio Code. La calculadora tiene funciones básicas (suma, resta, multiplicación, división), además estas  4 funciones adicionales:
+🖥  Aqui encontrarás una calculadora en Python que funciona desde la consola de Visual Studio Code.
+
+La calculadora tiene funciones básicas (suma, resta, multiplicación, división), además estas  4 funciones adicionales:
 
 ♠ addmultiplenumbers(lista)
    Suma todos los números de una lista y regresa el resultado.
