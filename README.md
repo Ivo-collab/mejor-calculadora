@@ -4,6 +4,8 @@
 
 La calculadora tiene funciones básicas (suma, resta, multiplicación, división), además estas  4 funciones adicionales:
 
+
+
 ♠ addmultiplenumbers(lista)
    Suma todos los números de una lista y regresa el resultado.
 
