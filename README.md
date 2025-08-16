@@ -18,3 +18,6 @@ La calculadora tiene funciones básicas (suma, resta, multiplicación, división
 ♠ isitaninteger(numero)
    Regresa True si el número es entero (por ejemplo 7 o 7.0), o False si no.
 
+  
+Se corrió un test de ocho pruebas que las pasó exitosamente.
+
